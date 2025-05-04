@@ -56,3 +56,4 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+Developed by Aayush Mani 💻
