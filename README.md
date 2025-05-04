@@ -1,19 +1,15 @@
-# Welcome to your Lovable project
+# MyChatApp 🚀
 
-## Project info
+MyChatApp is a modern real-time chat application built with **Next.js**, **Firebase**, and **Tailwind CSS**. It supports:
 
-**URL**: https://lovable.dev/projects/b7f0aa18-b55c-4863-a305-fb6efa6cf22d
+- 🗨️ Forum-based group chats (movies, games, tech, sports, news, etc.)
+- 👥 One-to-one direct messaging
+- 📎 Media sharing (images, videos, files)
+- 🧾 Persistent chat history
+- 👤 User profile page (name, email, bio, joined date)
 
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/b7f0aa18-b55c-4863-a305-fb6efa6cf22d) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
+  ## 🚀 Getting Started
+  
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
@@ -60,11 +56,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/b7f0aa18-b55c-4863-a305-fb6efa6cf22d) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
 
 Yes, you can!
 
